@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/concensp-painel/static/css/main.f5c027c2.css",
-    "main.js": "/concensp-painel/static/js/main.3e7a0004.js",
+    "main.js": "/concensp-painel/static/js/main.c69123b0.js",
     "index.html": "/concensp-painel/index.html",
     "main.f5c027c2.css.map": "/concensp-painel/static/css/main.f5c027c2.css.map",
-    "main.3e7a0004.js.map": "/concensp-painel/static/js/main.3e7a0004.js.map"
+    "main.c69123b0.js.map": "/concensp-painel/static/js/main.c69123b0.js.map"
   },
   "entrypoints": [
     "static/css/main.f5c027c2.css",
-    "static/js/main.3e7a0004.js"
+    "static/js/main.c69123b0.js"
   ]
 }
